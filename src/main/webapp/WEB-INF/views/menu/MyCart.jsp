@@ -188,7 +188,7 @@ td {
 
 .selectItem {
 	font-size: 14px;
-	margin-left: 16px;
+	margin-left: 20px;
 	display: flex;
 	align-items: center;
 }
